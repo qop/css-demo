@@ -1,0 +1,5 @@
+name: css-demo
+markdown: redcarpet
+pygments: true
+exclude: ['javascript', '.git', 'less', '.gitignore', 'Gruntfile.js', 'package.json', 'README.md', 'node_modules']
+encoding: utf-8
